@@ -10,7 +10,16 @@
 
 *MENTOR* : Neela Santhosh Kumar
 
-DECRIPTION OF THE TASK :
+DECRIPTION OF THE TASK : Built a Chatbot that understands the basic user queries using NLP and responds with appropriate predefined answers
+NLP Concepts Used :
+
+Tokenization – Splitting text into words
+
+Lemmatization – Converting words to base form
+
+TF-IDF – Measures importance of words
+
+Cosine Similarity – Finds closest matching sentence
 
 *OUTPUT* :
 
